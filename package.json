@@ -1,0 +1,26 @@
+{
+  "name": "jake-lcm",
+  "version": "0.1.0",
+  "description": "Jake utilities for Locomotive",
+  "main": "index.js",
+  "repository": "",
+  "keywords": [
+      "jake"
+    , "locomotive"
+    , "lcm"
+    , "util"
+    , "task"
+    , "service"
+    , "helper"
+  ],
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/drudge/jake-lcm.git"
+  },
+  "author": "Nicholas Penree <nick@penree.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "~0.7.0",
+    "async": "~0.1.22"
+  }
+}
